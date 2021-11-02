@@ -1,0 +1,197 @@
+{
+    "Profile": {
+        "General": {
+            "Avatar": "https://icc-aria.ir/static/img/team_12.jpg",
+            "FirstName": "Hamidreza",
+            "LastName": "Samimi",
+            "Email": "ayhan.samimi@gmail.com",
+            "Phone": "+989352236272",
+            "BirthDate": "1994/07/12 - 1373/04/22",
+            "Address": "Karaj."
+        },
+        "Socials": [
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/linkedin+square+icon-1320168278649782468.png",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/ayhan-samimi/"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/youtube+icon-1320194863618940222.png",
+                "name": "Youtube",
+                "link": "https://youtube.com/channel/UC02rzltSm1uDU4Ce2E1cdWQ"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/instagram+instagram+new+design+logo+social+media+icon-1320184016084463641.png",
+                "name": "Instagram",
+                "link": "https://instagram.com/ayhan_samimi"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/bot+chat+message+telegram+icon-1320168256174387607.png",
+                "name": "Telegram",
+                "link": "https://t.me/Ayhanemoon"
+            },
+            {
+                "icon": "https://icons-for-free.com/iconfiles/png/512/github+logo+social+social+network+website+icon-1320191930698657711.png",
+                "name": "Github",
+                "link": "https://github.com/Ayhanemoon"
+            }
+        ],
+        "LangTech": [
+            {
+                "Name": "Javascript"
+            },
+            {
+                "Name": "Python"
+            },
+            {
+                "Name": "Django"
+            },
+            {
+                "Name": "Vue.JS 3"
+            },
+            {
+                "Name": "Quasar"
+            },
+            {
+                "Name": "Nuxt.JS"
+            },
+            {
+                "Name": "Sass/Scss"
+            },
+            {
+                "Name": "Node-red"
+            },
+            {
+                "Name": "Express.js"
+            },
+            {
+                "Name": "HTML & CSS"
+            },
+            {
+                "Name": "Node.js"
+            },
+            {
+                "Name": "SVG.JS"
+            },
+            {
+                "Name": "Linux/Mac"
+            },
+            {
+                "Name": "Sequelize"
+            },
+            {
+                "Name": "Anime.js"
+            },
+            {
+                "Name": "Web Socket"
+            },
+            {
+                "Name": "Git/Github/Gitlab"
+            },
+            {
+                "Name": "Adobe Illustrator"
+            },
+            {
+                "Name": "Docker/Docker Compose"
+            },
+            {
+                "Name": "Tableau"
+            }            
+        ],
+        "Skills": [
+            {
+                "Name": "Self Study"
+            },
+            {
+                "Name": "Curious"
+            },
+            {
+                "Name": "Tech Lover"
+            },
+            {
+                "Name": "Fast Learner"
+            },
+            {
+                "Name": "Creative"
+            },
+            {
+                "Name": "Mathematics $ algorithms"
+            }
+        ],
+        "Educations": [
+            {
+                "from": 2017,
+                "to": "",
+                "grade": "Master",
+                "in": "E-Commerce",
+                "institute": "Qazvin Azad University",
+                "descriptions": ""
+            },
+            {
+                "from": 2012,
+                "to": 2016,
+                "grade": "bachelor",
+                "in": "Information Technology",
+                "institute": "Zanjan Azad University",
+                "descriptions": ""
+            }
+        ],
+        "Work": [
+            {
+                "from": "2016",
+                "to": "Present",
+                "title": "Co-Founder",
+                "city": "karaj",
+                "company": "ICC-ARIA",
+                "mode": "Part time",
+                "descriptions": "Intelligent Communication Control Aria is place to learn development and progress in the field of Internet of Things, Artificial Intelligence, Business Intelligence, Backend and Front development and so on."
+            },
+            {
+                "from": "2021-2",
+                "to": "2021-9",
+                "title": "FrontEnd Developer",
+                "city": "Tehran",
+                "company": "Asia Petro Gas",
+                "mode": "Part time Remote",
+                "descriptions": "Part time FrontEnd developer"
+            },
+            {
+                "from": "2019-10",
+                "to": "2021-9",
+                "title": "FrontEnd Developer",
+                "city": "Finland",
+                "company": "Mantranic",
+                "mode": "Part time Remote",
+                "descriptions": ""
+            },
+            {
+                "from": "2019-8",
+                "to": "2020-3",
+                "title": "Broadcast Journalist & Business Intelligence Consultant",
+                "city": "Tehran",
+                "company": "Tamland",
+                "mode": "Part time",
+                "descriptions": "Tamland is online School"
+            },
+            {
+                "from": "2017-7",
+                "to": "2020-1",
+                "title": "FrontEnd Developer & IT Manager",
+                "city": "Tehran",
+                "company": "Persia Steel",
+                "mode": "Full time",
+                "descriptions": "Persia Steel is Industrial Kitchen Equipment Producer "
+            },
+            {
+                "from": "2017-6",
+                "to": "2020-5",
+                "title": "Business Advisor",
+                "city": "karaj",
+                "company": "Amon",
+                "mode": "Part time",
+                "descriptions": "Amon is Industrial Consultant Company"
+            }
+        ],
+        "Achievements": []
+    }
+}
